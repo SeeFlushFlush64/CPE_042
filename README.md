@@ -1,4 +1,4 @@
-# Resistor-Calculator (CHECK MASTER BRANCH)
+# Resistor-Calculator
 My Project in Python Class in BSCpE
 
 Greetings!
